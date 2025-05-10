@@ -158,5 +158,3 @@ form.addEventListener('submit',(event)=>{
     result.innerText = `${first_message} ${second_message} ${third_message} ${fourth_message} Our Reccomendation for you: ${fifth_message} Your Future Prediction is: ${sixth_message}`;
 
 })
-
-
